@@ -1,6 +1,6 @@
-<p align="center">
-  # BackPapers
-</p>
+<h1 align="center">
+   BackPapers
+</h1>
 
 The repository is my collection of Background Wallpapers.
 
