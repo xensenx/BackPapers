@@ -1,5 +1,5 @@
-<h1>BackPapers</h1>
-The repository is my collection of Background Wallpapers.
+<h1>BackPapers <p>The repository is my collection of Background Wallpapers.</p></h1>
+
 
 ### License
 
