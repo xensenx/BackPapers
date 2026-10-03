@@ -2,7 +2,7 @@
 
 ### License
 
-I do not own these visuals. The collection consists of publicly available images from various sources, which I've categorized into organized themes, modified through color grading or by adding tasteful typography, and restored using upscaling and generative tools.
+I do not own these visuals. The collection consists of publicly available images from various sources, which I've categorized into organized themes, modified through color grading or by adding tasteful typography, and restored using upscaling and generative tools. <br>
 They are intended for personal-use only.
 
 All original rights belong to the respective copyright holders.
