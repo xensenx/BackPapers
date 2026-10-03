@@ -13,4 +13,6 @@ All original rights belong to the respective copyright holders.
 > 
 > You can download wallpaper directories individually from the **Releases** section instead of cloning or downloading the entire repository.
 
-> Created on 2nd Oct 2026
+---
+
+Created on 2nd Oct 2026
