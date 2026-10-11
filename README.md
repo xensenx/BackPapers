@@ -1,23 +1,36 @@
-<h2>BackPapers</h2> <p>The repository is my collection of Background Wallpapers.</p>
+<h2>BackPapers</h2>
 
-### License
+<p>A personal collection of background wallpapers.</p>
 
-I do NOT own these visuals. <b>(Exception see below)</b> 
-The collection consists of publicly available images from various sources, which I've categorized into organized themes, modified through color grading or by adding tasteful typography, 
-and restored using upscaling and generative tools. <br>
+### Copyright & Permissions
 
-All original rights belong to the respective copyright holders.
+I do NOT own these visuals. <b>(Exception below.)</b>
 
+The collection consists of publicly available images from various sources,
+categorized into organized themes. Some images have been modified through
+colour grading, tasteful typography, upscaling, or generative tools.
+
+All original rights belong to their respective copyright holders.
 
 > [!NOTE]
-> All wallpapers in this repository are in .webp format to maintain high visual quality while keeping file sizes highly optimized
-> 
+> All wallpapers in this repository are stored in `.webp` format to
+> maintain high visual quality while optimizing file sizes.
+
 ---
 
 > [!IMPORTANT]
-> Exception to license : 
-> The Photographs in the [Nature-Photography](./Nature-Photography) directory are images captured by my acquaintance/friend, an insect and nature enthusiast.
-> with their permission all the images are open-sourced for personal use only. Read more about them and find ways to contact them [here](./Nature-Photography/README.md) if interested.
+> **Exception: Nature-Photography**
+>
+> The photographs in the [Nature-Photography](./Nature-Photography)
+> directory were captured by my friend, a wildlife and nature enthusiast.
+>
+> With the photographer's permission, these photographs are shared for
+> personal use only.
+>
+> Interested in the photographer or their work? Visit the
+> [Nature-Photography README](./Nature-Photography/README.md) to learn
+> more and find out how to get in touch.
 
+---
 
-Created on 2nd Oct 2026
+Created on 2 October 2026.
