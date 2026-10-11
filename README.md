@@ -13,11 +13,12 @@ All original rights belong to the respective copyright holders.
 > 
 ---
 
-Created on 2nd Oct 2026
 
 ---
 
 > [!IMPORTANT]
 > The files in the Insect-Photography directory are images captured by my acquaintance, a insect and nature enthusiast.
 > with their permission all the pictures are open sourced for personal use only.
+>
 > 
+Created on 2nd Oct 2026
