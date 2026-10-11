@@ -23,10 +23,8 @@ All original rights belong to their respective copyright holders.
 >
 > The photographs in the [Nature-Photography](./Nature-Photography)
 > directory were captured by my friend, a wildlife and nature enthusiast.
->
 > With the photographer's permission, these photographs are shared for
 > personal use only.
->
 > Interested in the photographer or their work? Visit the
 > [Nature-Photography README](./Nature-Photography/README.md) to learn
 > more and find out how to get in touch.
