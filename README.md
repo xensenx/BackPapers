@@ -2,7 +2,7 @@
 
 <p>A personal collection of background wallpapers.</p>
 
-### Copyright & Permissions
+#### Copyright & Permissions
 
 I do NOT own these visuals. <b>(Exception below.)</b>
 
