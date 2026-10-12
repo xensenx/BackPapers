@@ -3,7 +3,7 @@ This directory is distinct from the rest of the repository, as it contains photo
 For permissions beyond personal use, please contact the photographer.
 
 #### Contact
-Interested in the photographs or wish to get in touch with the photographer?
+Interested in the photographs or wish to get in touch with the photographer?<br>
 You can [email me](mailto:hello@xensenx.dev), and I'll put you in touch with them directly.
 
 #### A Little More About the Photographer
